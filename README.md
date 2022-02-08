@@ -1,8 +1,8 @@
 My project
 ==========
-This is Liam's line
+This is Liam's first line
 
-This is Liam's second line
+This is Liam's second line, without a full stop
 
 Add some stufgf in the week 15 lab
 
